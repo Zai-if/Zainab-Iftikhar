@@ -155,7 +155,15 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-background: linear-gradient(135deg, #0d1117, #1a1f2b, #663399); /* Adds a purple highlight */
+  background: linear-gradient(135deg, #0d1117, #1a1f2b, #663399);
+  animation: gradientMove 6s ease infinite;
+
+  @keyframes gradientMove {
+     0% { background-position: 0% 50%; }
+     100% { background-position: 100% 50%; }
+  }
+
+  
 
 }
 
