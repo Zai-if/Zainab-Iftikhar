@@ -158,16 +158,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background: linear-gradient(135deg, #0d1117, #1a1f2b, #663399);
-  animation: gradientMove 6s ease infinite;
-
-  @keyframes gradientMove {
-     0% { background-position: 0% 50%; }
-     100% { background-position: 100% 50%; }
-  }
-
-  
-
+  background: linear-gradient(135deg, #1e2a47, #4b0082, #1e90ff); /* Dark blue, purple, and bright blue */
 }
 
 .text-primary {
