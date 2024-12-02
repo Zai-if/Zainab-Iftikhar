@@ -1,8 +1,8 @@
 body {
   font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   padding-top: 54px;
-  color: #ffffff;  /* Changed text color to white for contrast */
-  background: linear-gradient(135deg, #0a0d14, #1a1f2b, #2c3e50), url('img/pngtree-galaxy-real-stars-png-image_3341712.jpg');
+  color: #ffffff;  
+  background: linear-gradient(135deg, #0a0d14, #1a1f2b, #2c3e50);
   background-size: cover;
 }
 
@@ -156,7 +156,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-primary {
-  color: rgb(0, 0, 0) !important;
+  color: grey !important;
 }
 
 a {
