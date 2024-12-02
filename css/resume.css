@@ -152,7 +152,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background: linear-gradient(135deg, #1e2a47, #4b0082, #1e90ff); /* Dark blue, purple, and bright blue */
+  background: linear-gradient(135deg, #1e2a47, #4b0082); 
 }
 
 .text-primary {
