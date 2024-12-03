@@ -3,7 +3,7 @@ body {
   padding-top: 54px;
   color: #ffffff;  
   background: linear-gradient(135deg, #0a0d14, #1a1f2b, #2c3e50);
-  background-size: cover;
+ 
 }
 
 @media (min-width: 992px) {
